@@ -21,11 +21,12 @@
   }
   
   .title{
-    font-size: 64px;
+    font-size: 32px;
   }
   
   .detail{
     display: flex;
+    flex-direction: column;
     gap: 20px;
   }
   
